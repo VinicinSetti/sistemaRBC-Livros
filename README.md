@@ -14,3 +14,8 @@ docker run --name postgres-container -d -p 5432:5432 meu-postgres-db
 ```
 
 ### Após isso, só executar o codigo, lembrando que é necessario ter o dotnet 9 baixado
+
+Trabalho realizado pelos estudantes
+- Vinícius Setti
+- Alisson Pokrywiecki da Silva
+- Rodrigo Faistauer
