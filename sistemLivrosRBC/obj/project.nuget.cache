@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XyDV/pmiHUw=",
+  "dgSpecHash": "W58E8a6zuSU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC\\sistemLivrosRBC\\sistemLivrosRBC.csproj",
+  "projectFilePath": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC-Livros\\sistemLivrosRBC\\sistemLivrosRBC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinicius.setti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
     "C:\\Users\\vinicius.setti\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",

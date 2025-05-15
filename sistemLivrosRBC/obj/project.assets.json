@@ -190,11 +190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC\\sistemLivrosRBC\\sistemLivrosRBC.csproj",
+      "projectUniqueName": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC-Livros\\sistemLivrosRBC\\sistemLivrosRBC.csproj",
       "projectName": "sistemLivrosRBC",
-      "projectPath": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC\\sistemLivrosRBC\\sistemLivrosRBC.csproj",
+      "projectPath": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC-Livros\\sistemLivrosRBC\\sistemLivrosRBC.csproj",
       "packagesPath": "C:\\Users\\vinicius.setti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC\\sistemLivrosRBC\\obj\\",
+      "outputPath": "C:\\Users\\vinicius.setti\\Documents\\CoisasAleatorias\\sistemaRBC-Livros\\sistemLivrosRBC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinicius.setti\\AppData\\Roaming\\NuGet\\NuGet.Config"
